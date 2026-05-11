@@ -77,6 +77,50 @@ export class Hero implements OnInit, OnDestroy {
     document.querySelector(id)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
 
+  async downloadResume(event: Event): Promise<void> {
+    event.preventDefault();
+    if (!this.isBrowser) return;
+    const path = '/resume-of-rafi.pdf';
+    let previewWin: Window | null = null;
+    try {
+      // Open a blank window synchronously to avoid popup blockers
+      previewWin = window.open('', '_blank');
+
+      const resp = await fetch(path);
+      if (!resp.ok) throw new Error('Network response was not ok');
+      const blob = await resp.blob();
+      const url = URL.createObjectURL(blob);
+
+      if (previewWin) {
+        previewWin.location.href = url;
+      } else {
+        window.open(url, '_blank');
+      }
+
+      // Ask user if they also want to download the file
+      const shouldDownload = confirm('Preview opened in a new tab. Download the PDF as well?');
+      if (shouldDownload) {
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'resume-of-rafi.pdf';
+        document.body.appendChild(a);
+        a.click();
+        a.remove();
+      }
+
+      // If preview is open, keep the blob URL alive a bit so the new tab can load it.
+      if (previewWin) {
+        setTimeout(() => URL.revokeObjectURL(url), 60000);
+      } else {
+        URL.revokeObjectURL(url);
+      }
+    } catch (err) {
+      console.error('Resume preview failed, falling back to direct link', err);
+      if (previewWin && !previewWin.closed) previewWin.close();
+      window.location.href = path;
+    }
+  }
+
   private updateClock(): void {
     try {
       const now = new Date().toLocaleTimeString('en-GB', {

@@ -69,10 +69,10 @@
             </svg>
           </a>
           <a
-            class="btn btn--ghost" 
-            href="/public/resume-of-rafi.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
+            class="btn btn--ghost"
+            href="/resume-of-rafi.pdf"
+            (click)="downloadResume($event)"
+            aria-label="Download résumé"
           >
             Résumé
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
