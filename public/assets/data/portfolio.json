@@ -1,0 +1,277 @@
+{
+  "personal": {
+    "name": "Raisul Hasan Rafi",
+    "title": "Lead UX/UI Designer & Frontend Developer",
+    "tagline": "Crafting seamless digital experiences with a blend of design and code.",
+    "bio": "I am a passionate and versatile Lead UX/UI Designer and Frontend Developer with over 4 years of experience in creating intuitive and visually stunning digital experiences. With a strong foundation in both design principles and frontend technologies, I excel at bridging the gap between aesthetics and functionality. My expertise lies in crafting user-centered designs that not only captivate users but also drive business success. I thrive in collaborative environments, working closely with cross-functional teams to deliver innovative solutions that exceed client expectations. Whether it's designing engaging interfaces or implementing responsive web applications, I am dedicated to delivering exceptional results that leave a lasting impact.",
+    "email": "rhr3032@yahoo.com",
+    "location": "Barishal, Bangladesh",
+    "avatar": "/public/avater.jpg",
+    "social": {
+      "github": "https://github.com/rhr3032",
+      "linkedin": "https://linkedin.com/in/rhr3032",
+      "behance": "https://behance.net/rhr3032",
+      "pinterest": "https://pinterest.com/rhr3032"
+    }
+  },
+  "experience": [
+    {
+      "company": "MNTech Digital",
+      "companyUrl": "https://mntechdigital.com",
+      "role": "Lead UX/UI Designer",
+      "startDate": "Feb, 2025",
+      "endDate": null,
+      "description": "Led a team of designers to create intuitive interfaces, resulting in a 30% increase in user engagement and a 25% boost in customer satisfaction. Collaborated closely with product managers and developers to ensure seamless integration of design and functionality, delivering a cohesive and impactful user experience.",
+      "highlights": [
+        "Spearheaded the redesign of the flagship product, leading to a 30% increase in user engagement and a 25% boost in customer satisfaction",
+        "Led a team of designers to create intuitive interfaces, resulting in a 30% increase in user engagement and a 25% boost in customer satisfaction"
+      ],
+      "technologies": ["Figma", "Next.js", "Flutter"]
+    },
+    {
+      "company": "Ramotion",
+      "companyUrl": "https://ramotion.com",
+      "role": "UX/UI Designer",
+      "startDate": "2023-07-01",
+      "endDate": "2024-12-31",
+      "description": "Contributed to the design and development of cutting-edge applications for the E&P sector, leveraging Angular and React to create seamless user experiences. Implemented innovative features such as AI-driven summarization tools and real-time 3D wellbore analysis components, resulting in enhanced reporting efficiency and interactive visualizations for stakeholders.",
+      "highlights": [
+        "Contributed to the design and development of cutting-edge applications for the E&P sector, leveraging Angular and React to create seamless user experiences",
+        "Implemented innovative features such as AI-driven summarization tools and real-time 3D wellbore analysis components, resulting in enhanced reporting efficiency and interactive visualizations for stakeholders",
+        "Collaborated with cross-functional teams to integrate advanced features, resulting in a 15% rise in overall sales revenue and a 20% reduction in inventory discrepancies, positively impacting the company's bottom line and enhancing customer satisfaction"
+      ],
+      "technologies": ["Angular", "React", "TailwindCSS", "C#", "WebGL (Unity)"]
+    },
+    {
+      "company": "Brain Station 23 PLC.",
+      "companyUrl": "https://brainstation-23.com",
+      "role": "Associate Software Engineer",
+      "startDate": "2022-04-01",
+      "endDate": "2023-06-30",
+      "highlights": [
+        "Led development of high-performance Angular applications, achieving 80%+ performance improvements",
+        "Enabled a 230% sales increase through seamless integration of key business features",
+        "Built advanced data visualization and project management tools for well-based industries"
+      ],
+      "technologies": ["React", "Angular", "TailwindCSS", "WebGL (Unity)"]
+    },
+    {
+      "company": "AITS Idea Ltd.",
+      "role": "Associate Software Engineer",
+      "startDate": "2021-07-01",
+      "endDate": "2022-03-31",
+      "highlights": [
+        "Led development of Angular-based ERP and POS systems, achieving 40% data accuracy improvement",
+        "Built high-performance product website for Jain Laboratories Ltd with < 3s load times",
+        "Reduced bounce rate by 40% through optimized UI and rapid prototyping"
+      ],
+      "technologies": ["Angular", "TailwindCSS", "Figma"]
+    },
+    {
+      "company": "AITS Idea Ltd.",
+      "role": "Junior Software Engineer",
+      "startDate": "2021-01-01",
+      "endDate": "2021-06-30",
+      "description": "Assisted in the development of web applications and user interfaces.",
+      "highlights": [
+        "Collaborated on frontend modules using Angular and supported bug fixing and performance tuning",
+        "Gained hands-on experience with RESTful API integration and responsive design"
+      ],
+      "technologies": ["Angular", "JavaScript", "HTML/CSS"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Dhaka International University",
+      "degree": "B.S. in Computer Science & Engineering",
+      "location": "Dhaka, Bangladesh",
+      "endDate": "2020-12-31"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": [
+        { "name": "Angular", "level": "expert" },
+        { "name": "React", "level": "proficient" },
+        { "name": "TypeScript", "level": "expert" },
+        { "name": "TailwindCSS", "level": "expert" },
+        { "name": "Ionic", "level": "proficient" },
+        { "name": "RxJS", "level": "expert" }
+      ]
+    },
+    {
+      "category": "Backend",
+      "items": [
+        { "name": "NestJS", "level": "proficient" },
+        { "name": "NodeJS", "level": "proficient" },
+        { "name": "C#", "level": "proficient" },
+        { "name": "PostgresSQL", "level": "proficient" },
+        { "name": "MongoDB", "level": "proficient" }
+      ]
+    },
+    {
+      "category": "DevOps & Tools",
+      "items": [
+        { "name": "Azure DevOps", "level": "proficient" },
+        { "name": "Docker", "level": "proficient" },
+        { "name": "GitHub Actions", "level": "proficient" },
+        { "name": "Cloudflare Page", "level": "proficient" },
+        { "name": "Figma", "level": "proficient" },
+        { "name": "Railway", "level": "proficient" }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "mehaxan",
+      "description": "Personal portfolio website built with Angular 21 and deployed on Cloudflare Workers. You're looking at it right now!",
+      "technologies": ["Angular", "TypeScript", "Tailwind CSS", "Cloudflare Workers"],
+      "url": "https://mehaxan.com",
+      "github": "https://github.com/mehaxan/mehaxan.com",
+      "featured": true
+    },
+    {
+      "name": "geologiQ",
+      "description": "Integrated Unity engine with Angular app for real-time 3D rendering of Wellbore elements (e.g., Experiences, Infrastructures). Achieved 150% performance boost through optimized rendering, data fetching, and WebSocket technology for real-time updates. Incorporated cutting-edge features, enabling real-time visual changes based on dynamic data for interactive 3D element customization. Utilized @ngneat/elf to effectively manage application states and settings, enhancing user experience and system maintainability.",
+      "technologies": ["Angular"],
+      "url": "",
+      "github": "",
+      "featured": true
+    },
+    {
+      "name": "logistiQ",
+      "description": "Spearheaded the development of an innovative Angular-based logistic solution for a prominent Well company, resulting in a significant 30% improvement in overall operational efficiency. Successfully integrated cutting-edge features and technologies, leading to a 20% reduction in logistics-related costs and delivering a 25% increase in customer satisfaction through enhanced tracking and real-time updates.",
+      "technologies": ["Angular"],
+      "url": "",
+      "github": "",
+      "featured": false
+    },
+    {
+      "name": "Wellbook",
+      "description": "Built from scratch and contributed significantly to the development of the dashboard, and Gantt view - achieving a 20% faster feature implementation rate compared to initial estimates for very first demo.",
+      "technologies": ["Angular"],
+      "url": "",
+      "github": "",
+      "featured": false
+    },
+    {
+      "name": "Wellbore Analyzer",
+      "description": "Pioneered the creation of an Angular-based data analysis and visualization solution for a Well company, empowering stakeholders to gain valuable insights from vast datasets with a remarkable 40% reduction in data processing time. Implemented interactive and dynamic visualizations, enabling the company to make data-driven decisions efficiently, resulting in a 30% improvement in well-site performance and a 20% increase in resource utilization, leading to significant cost savings.",
+      "technologies": ["Angular"],
+      "url": "",
+      "github": "",
+      "featured": false
+    },
+    
+    {
+      "name": "Oslofjordens Friluftsråd",
+      "description": "Led development of a state-of-the-art Angular website, emphasizing scalability, modularity, optimization, and top-tier security. Delivered an impressive 80%+ performance improvement over the previous solution. Managed seamless integration of vital features (SEO, Internationalization, Accessibility) driving a remarkable 230% sales surge in one year. Implemented MapBox, elevating user engagement by 400% via Google Analytics. Streamlined booking checkout with Nets Easy Payment API, enhancing user experience.",
+      "technologies": ["Angular"],
+      "url": "",
+      "github": "",
+      "featured": false
+    },
+    
+    {
+      "name": "Bonik POS",
+      "description": "Played a pivotal role in developing an Angular-based Web-based Point of Sales (POS) application, facilitating seamless transactions and inventory management with a notable 25% increase in checkout speed. Collaborated with cross-functional teams to integrate advanced features, resulting in a 15% rise in overall sales revenue and a 20% reduction in inventory discrepancies, positively impacting the company's bottom line and enhancing customer satisfaction",
+      "technologies": ["Angular"],
+      "url": "",
+      "github": "",
+      "featured": false
+    },
+    
+    {
+      "name": "SILENCE ERP",
+      "description": "Played a pivotal role in developing a cutting-edge Angular-based Enterprise Resource Planning (ERP) solution, streamlining business processes and fostering a 25% increase in overall operational efficiency. Successfully integrated diverse modules, including finance, inventory, and human resources, resulting in a 30% reduction in manual data entry and a 40% improvement in data accuracy, significantly enhancing decision-making capabilities for the organization.",
+      "technologies": ["Angular"],
+      "url": "",
+      "github": "",
+      "featured": false
+    },
+    
+    {
+      "name": "Jain Laboratories",
+      "description": "Developed an interactive product showcasing website for Jain Laboratories Ltd, resulting in a significant increase in user engagement. Implemented the website using Angular, achieving an impressive loading time of less than 3 seconds, thereby enhancing the overall user experience and reducing the bounce rate by 40% than the previous website. Leveraged Figma to design and prototype the website, facilitating seamless collaboration with the design and development teams. Utilizing Tailwind CSS as the CSS library, reduced the initial development time by 30%-40%, leading to quicker project delivery",
+      "technologies": ["Angular"],
+      "url": "",
+      "github": "",
+      "featured": false
+    },
+    {
+      "name": "Jomidar",
+      "description": "Developed and designed web application and mobile application, utilizing Angular and Ionic frameworks. Led the creation of the web application from scratch, while also crafting the UI design using Adobe XD. Leveraged expertise in Angular and Ionic to build both web and mobile components of the application, demonstrating a strong aptitude for front-end development and responsive design. Collaborated as a Junior Software Engineer, gaining valuable experience in software development lifecycle and UI/UX implementation.",
+      "technologies": ["Angular"],
+      "url": "",
+      "github": "",
+      "featured": false
+    }
+  ],
+  "blog": [
+    {
+      "title": "Getting Started with Angular Signals",
+      "mediumUrl": "https://medium.com/@mehaxan",
+      "date": "2025-10-01",
+      "summary": "A practical guide to Angular Signals — the new reactivity primitive replacing Zone.js change detection in modern Angular applications.",
+      "readingTime": "6 min read"
+    },
+    {
+      "title": "Deploying Angular Apps to Cloudflare Workers",
+      "mediumUrl": "https://medium.com/@mehaxan",
+      "date": "2025-08-15",
+      "summary": "Step-by-step walkthrough of deploying an Angular SSR application to Cloudflare Workers using @angular/ssr and Wrangler.",
+      "readingTime": "8 min read"
+    },
+    {
+      "title": "Mastering RxJS in Angular",
+      "mediumUrl": "https://medium.com/@mehaxan",
+      "date": "2025-05-20",
+      "summary": "Deep dive into the RxJS operators every Angular developer should know, with real-world examples from production codebases.",
+      "readingTime": "10 min read"
+    }
+  ],
+  "activities": [
+    {
+      "organization": "DIU Computer & Programming Club (DIU CPC)",
+      "role": "President",
+      "duration": "Aug 2018 – Apr 2021",
+      "highlights": [
+        "Re-established the club and taught JavaScript to members",
+        "Organized an inter-university event with approx. 1000 participants",
+        "Organized 11 intra-university programming contests"
+      ]
+    },
+    {
+      "organization": "Ex_Coder",
+      "role": "Team Lead",
+      "duration": "Jan 2019 – Dec 2020",
+      "highlights": [
+        "Participated in ICPC Dhaka Regional 2019 (Southeast University)",
+        "Participated in NCPC 2020 (MIST)"
+      ]
+    }
+  ],
+  "talks": [
+    {
+      "title": "Prepare for your career: Ultimate Guide to Kickstart Your Journey",
+      "event": "DIU CPC, Dhaka International University",
+      "year": 2025,
+      "role": "Speaker"
+    },
+    {
+      "title": "Expectation vs Reality in Bangladesh's Software Job Market",
+      "event": "DIU CSE Department",
+      "year": 2024,
+      "role": "Guest Speaker"
+    }
+  ],
+  "publications": [
+    {
+      "title": "RHM: Designing a Customized Health Model for the Union of Ramjibon",
+      "publisher": "IEEE International Conference on Biomedical Engineering, Computer and Information Technology for Health (BECITHCON)",
+      "year": 2019,
+      "doi": "10.1109/BECITHCON48839.2019.9063165"
+    }
+  ]
+}
