@@ -16,14 +16,14 @@
     @if (portfolio$ | async; as data) {
       <!-- Top meta row -->
       <div class="hero-meta">
-        <span class="status-pill"><span class="dot"></span>Available · Q3 ’26</span>
+        <span class="status-pill"><span class="dot"></span>Available Now</span>
         <span class="kicker hero-clock">{{ clock() }}</span>
       </div>
 
       <!-- Editorial body: name on the left, vertical role ticker on the right -->
       <div class="hero-body">
         <div class="hero-name-block">
-          <p class="kicker hero-greeting">A portfolio · No. 06 · 2026</p>
+          <p class="kicker hero-greeting">Hello, I'm</p>
           <h1 class="display-xl hero-name">
             <span class="hero-name-line">{{ firstName(data.personal.name) }}</span>
             <span class="hero-name-line hero-name-line--last">
@@ -69,8 +69,8 @@
             </svg>
           </a>
           <a
-            class="btn btn--ghost"
-            href="https://docs.google.com/document/d/1Ut6godpffjoHIBBgRMyNo_RtDo3vRdh2bHXuqrfm7wQ/edit?usp=sharing"
+            class="btn btn--ghost" 
+            href="/public/resume-of-rafi.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
