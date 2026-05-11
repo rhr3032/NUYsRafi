@@ -12,12 +12,16 @@ import { PortfolioService } from '../../services/portfolio.service';
 import { MagneticDirective } from '../../directives/magnetic.directive';
 
 const ROLE_PHRASES = [
-  'Senior Software Engineer',
-  'Angular Architect',
+  'Lead UI/UX Designer',
+  'Product Designer',
   'Full-Stack Builder',
-  'UI / UX Tinkerer',
-  'DevOps Practitioner',
-  'Side-Project Addict',
+  'Cross-Platform Enthusiast',
+  'Product Strategy Thinker',
+  'Creative Problem Solver',
+  'User-Centric Innovator',
+  'Design Systems Advocate',
+  'Performance Optimizer',
+  'Accessibility Champion',
 ];
 
 const ROLE_ROTATION_INTERVAL_MS = 2400;
