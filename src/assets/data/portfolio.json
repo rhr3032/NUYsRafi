@@ -28,64 +28,53 @@
       ],
       "technologies": ["Figma", "Next.js", "Flutter"]
     },
-    {
-      "company": "Brain Station 23 PLC.",
-      "companyUrl": "https://brainstation-23.com",
-      "role": "Software Engineer",
-      "startDate": "2023-07-01",
-      "endDate": "2024-12-31",
-      "description": "Focused on secure multi-project access and real-time visualization tools.",
+   {
+      "company": "Ramotion",
+      "companyUrl": "https://ramotion.com",
+      "role": "UX/UI Designer",
+      "startDate": "Apr, 2023",
+      "endDate": "Dec,2024",
+      "description": "Contributed to the design and development of cutting-edge applications for the E&P sector, leveraging Angular and React to create seamless user experiences. Implemented innovative features such as AI-driven summarization tools and real-time 3D wellbore analysis components, resulting in enhanced reporting efficiency and interactive visualizations for stakeholders.",
       "highlights": [
-        "Implemented a role-based authorization framework in Angular for secure multi-project access",
-        "Integrated AI-driven summarization tools into E&P sector applications to enhance reporting efficiency",
-        "Developed a 3D wellbore analysis component using React and Unity for real-time visualization"
+        "Contributed to the design and development of cutting-edge applications for the E&P sector, leveraging Angular and React to create seamless user experiences",
+        "Implemented innovative features such as AI-driven summarization tools and real-time 3D wellbore analysis components, resulting in enhanced reporting efficiency and interactive visualizations for stakeholders",
+        "Collaborated with cross-functional teams to integrate advanced features, resulting in a 15% rise in overall sales revenue and a 20% reduction in inventory discrepancies, positively impacting the company's bottom line and enhancing customer satisfaction"
       ],
       "technologies": ["Angular", "React", "TailwindCSS", "C#", "WebGL (Unity)"]
     },
-    {
-      "company": "Brain Station 23 PLC.",
-      "companyUrl": "https://brainstation-23.com",
-      "role": "Associate Software Engineer",
-      "startDate": "2022-04-01",
-      "endDate": "2023-06-30",
+       {
+      "company": "UpWork",
+      "companyUrl": "https://upwork.com",
+      "role": "UX/UI Designer (Freelance)",
+      "startDate": "Jun, 2022",
+      "endDate": "Dec, 2024",
       "highlights": [
-        "Led development of high-performance Angular applications, achieving 80%+ performance improvements",
-        "Enabled a 230% sales increase through seamless integration of key business features",
-        "Built advanced data visualization and project management tools for well-based industries"
+        "Led the design and development of a high-impact Angular-based web application for a major Well company, resulting in a 30% improvement in operational efficiency and a 20% reduction in logistics-related costs",
+        "Successfully integrated cutting-edge features and technologies, leading to a 20% reduction in logistics-related costs and delivering a 25% increase in customer satisfaction through enhanced tracking and real-time updates",
+        "Collaborated with cross-functional teams to integrate advanced features, resulting in a 15% rise in overall sales revenue and a 20% reduction in inventory discrepancies, positively impacting the company's bottom line and enhancing customer satisfaction"
       ],
-      "technologies": ["React", "Angular", "TailwindCSS", "WebGL (Unity)"]
+      "technologies": ["Figma", "Next.js", "Flutter"]
     },
     {
-      "company": "AITS Idea Ltd.",
-      "role": "Associate Software Engineer",
-      "startDate": "2021-07-01",
-      "endDate": "2022-03-31",
+      "company": "Fiverr",
+      "companyUrl": "https://fiverr.com",
+      "role": "UX/UI Designer (Freelance)",
+      "startDate": "Jul, 2021",
+      "endDate": "Mar, 2023",
       "highlights": [
-        "Led development of Angular-based ERP and POS systems, achieving 40% data accuracy improvement",
-        "Built high-performance product website for Jain Laboratories Ltd with < 3s load times",
-        "Reduced bounce rate by 40% through optimized UI and rapid prototyping"
+        "Designed and developed a high-performance product website for Jain Laboratories Ltd, achieving load times of less than 3 seconds and significantly enhancing user experience",
+        "Leveraged Figma for design and prototyping, facilitating seamless collaboration with design and development teams, and reducing initial development time by 30%-40%",
+        "Played a pivotal role in developing an Angular-based Web-based Point of Sales (POS) application, facilitating seamless transactions and inventory management with a notable 25% increase in checkout speed"
       ],
-      "technologies": ["Angular", "TailwindCSS", "Figma"]
-    },
-    {
-      "company": "AITS Idea Ltd.",
-      "role": "Junior Software Engineer",
-      "startDate": "2021-01-01",
-      "endDate": "2021-06-30",
-      "description": "Assisted in the development of web applications and user interfaces.",
-      "highlights": [
-        "Collaborated on frontend modules using Angular and supported bug fixing and performance tuning",
-        "Gained hands-on experience with RESTful API integration and responsive design"
-      ],
-      "technologies": ["Angular", "JavaScript", "HTML/CSS"]
+      "technologies": ["Figma", "Next.js", "Flutter"]
     }
   ],
   "education": [
     {
-      "institution": "Dhaka International University",
-      "degree": "B.S. in Computer Science & Engineering",
-      "location": "Dhaka, Bangladesh",
-      "endDate": "2020-12-31"
+      "institution": "Patuakhali Govt. University College",
+      "degree": "BA (Hon's) in Department of English Language and Literature",
+      "location": "Patuakhali, Bangladesh",
+      "endDate": "2021-2022"
     }
   ],
   "skills": [
