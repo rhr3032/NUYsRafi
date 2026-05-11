@@ -18,9 +18,9 @@ export class About {
   readonly portfolio$ = inject(PortfolioService).portfolio$;
 
   readonly stats: Stat[] = [
-    { value: '6+',  label: 'Years shipping' },
-    { value: '40+', label: 'Projects in flight' },
-    { value: '5',   label: 'Conference talks' },
+    { value: '5+',  label: 'Years of Experience' },
+    { value: '360+', label: 'Projects in flight' },
+    { value: '95%',   label: 'Client satisfaction rate' },
     { value: '∞',   label: 'Cups of coffee' },
   ];
 
