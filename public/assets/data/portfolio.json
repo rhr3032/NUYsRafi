@@ -208,19 +208,19 @@
       "featured": true
     },
     {
-      "name": "logistiQ",
-      "description": "Spearheaded the development of an innovative Angular-based logistic solution for a prominent Well company, resulting in a significant 30% improvement in overall operational efficiency. Successfully integrated cutting-edge features and technologies, leading to a 20% reduction in logistics-related costs and delivering a 25% increase in customer satisfaction through enhanced tracking and real-time updates.",
-      "technologies": ["Angular"],
-      "url": "",
-      "github": "",
+      "name": "TopShop Online Groceries App UI Design",
+      "description": "Designed a user-friendly and visually appealing UI for TopShop, an online groceries app, using Figma and Adobe Photoshop. The design focused on creating an intuitive shopping experience with easy navigation, clear product categorization, and a seamless checkout process.",
+      "technologies": ["Figma", "FigJam", "Miro", "Adobe Photoshop"],
+      "url": "https://www.behance.net/gallery/234089065/Online-Groceries-App-UI-Design",
+      "github": "https://www.behance.net/gallery/234089065/Online-Groceries-App-UI-Design",
       "featured": true
     },
     {
-      "name": "Wellbook",
-      "description": "Built from scratch and contributed significantly to the development of the dashboard, and Gantt view - achieving a 20% faster feature implementation rate compared to initial estimates for very first demo.",
-      "technologies": ["Angular"],
-      "url": "",
-      "github": "",
+      "name": "Agencysta Digital Marketing Agency Website",
+      "description": "Designed a modern and visually appealing website for Agencysta, a digital marketing agency, using Figma and Adobe Photoshop. The design focused on showcasing the agency's services, portfolio, and client testimonials in an engaging and user-friendly manner to attract potential clients.",
+      "technologies": ["Figma", "FigJam", "Miro", "Adobe Photoshop"],
+      "url": "https://www.behance.net/gallery/233137419/Next-Generation-Digital-Marketing-Agency-Website",
+      "github": "https://www.behance.net/gallery/233137419/Next-Generation-Digital-Marketing-Agency-Website",
       "featured": true
     },
     {
