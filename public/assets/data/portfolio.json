@@ -224,11 +224,11 @@
       "featured": true
     },
     {
-      "name": "Wellbore Analyzer",
-      "description": "Pioneered the creation of an Angular-based data analysis and visualization solution for a Well company, empowering stakeholders to gain valuable insights from vast datasets with a remarkable 40% reduction in data processing time. Implemented interactive and dynamic visualizations, enabling the company to make data-driven decisions efficiently, resulting in a 30% improvement in well-site performance and a 20% increase in resource utilization, leading to significant cost savings.",
-      "technologies": ["Angular"],
-      "url": "",
-      "github": "",
+      "name": "RideShare Mobile App UI kit",
+      "description": "Designed a modern and responsive UI kit for the RideShare mobile app using Figma and Adobe Photoshop. The design focused on creating an intuitive user experience with seamless navigation, engaging animations, and a consistent visual language to enhance user satisfaction and retention.",
+      "technologies": ["Figma", "FigJam", "Miro", "Adobe Photoshop"],
+      "url": "https://www.behance.net/gallery/229018819/RideShare-Mobile-App-UI-kit",
+      "github": "https://www.behance.net/gallery/229018819/RideShare-Mobile-App-UI-kit",
       "featured": true
     },
     
