@@ -200,11 +200,11 @@
       "featured": true
     },
     {
-      "name": "geologiQ",
-      "description": "Integrated Unity engine with Angular app for real-time 3D rendering of Wellbore elements (e.g., Experiences, Infrastructures). Achieved 150% performance boost through optimized rendering, data fetching, and WebSocket technology for real-time updates. Incorporated cutting-edge features, enabling real-time visual changes based on dynamic data for interactive 3D element customization. Utilized @ngneat/elf to effectively manage application states and settings, enhancing user experience and system maintainability.",
-      "technologies": ["Angular"],
-      "url": "",
-      "github": "",
+      "name": "Petition Landing Page UI Design",
+      "description": "Designed a modern and responsive landing page for a petition campaign using Figma and Adobe Photoshop. The design emphasized clear messaging, strong call-to-action buttons, and an engaging user interface to maximize conversion rates.",
+      "technologies": ["Figma", "FigJam", "Miro", "Adobe Photoshop"],
+      "url": "https://www.behance.net/gallery/241288649/Petition-Landing-Page-UI-Design",
+      "github": "https://www.behance.net/gallery/241288649/Petition-Landing-Page-UI-Design",
       "featured": true
     },
     {
