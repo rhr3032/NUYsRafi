@@ -152,7 +152,7 @@
       ]
     },
     {
-      "category": "DevOps & Tools",
+      "category": "Tools",
       "items": [
         { "name": "Azure DevOps", "level": "proficient" },
         { "name": "Docker", "level": "proficient" },
