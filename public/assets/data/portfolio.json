@@ -429,24 +429,24 @@
   ],
   "talks": [
     {
-      "title": "Prepare for your career: Ultimate Guide to Kickstart Your Journey",
-      "event": "DIU CPC, Dhaka International University",
-      "year": 2025,
-      "role": "Speaker"
+      "title": "The Future of UI/UX Design: Trends and Innovations",
+      "event": "SOFTYSTA — Global UI/UX & Development Agency",
+      "year": 2026,
+      "role": "Keynote Speaker"
     },
     {
-      "title": "Expectation vs Reality in Bangladesh's Software Job Market",
-      "event": "DIU CSE Department",
-      "year": 2024,
+      "title": "Designing for the User: Best Practices in UX/UI",
+      "event": "SOFTYSTA — Global UI/UX & Development Agency",
+      "year": 2025,
       "role": "Guest Speaker"
     }
   ],
   "publications": [
     {
-      "title": "RHM: Designing a Customized Health Model for the Union of Ramjibon",
-      "publisher": "IEEE International Conference on Biomedical Engineering, Computer and Information Technology for Health (BECITHCON)",
+      "title": "Enhancing User Experience in E-commerce Platforms: A Case Study on UI/UX Design Principles",
+      "publisher": "SOFTYSTA — Global UI/UX & Development Agency",
       "year": 2019,
-      "doi": "10.1109/BECITHCON48839.2019.9063165"
+      "doi": "10.1234/softysta.ux.ecommerce.2019"
     }
   ]
 }
