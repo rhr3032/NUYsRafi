@@ -112,7 +112,7 @@ export interface Publication {
   title: string;
   publisher: string;
   year: number;
-  doi: string;
+  hashnodeUrl: string;
 }
 
 /** Root type — matches the shape of portfolio.json */

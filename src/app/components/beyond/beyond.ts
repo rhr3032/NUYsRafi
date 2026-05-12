@@ -12,7 +12,7 @@ import { ScrollRevealDirective } from '../../directives/scroll-reveal.directive'
 export class Beyond {
   readonly portfolio$ = inject(PortfolioService).portfolio$;
 
-  doiUrl(doi: string): string {
-    return `https://doi.org/${doi}`;
+  hashnodeUrl(url: string): string {
+    return url || 'https://hashnode.com/';
   }
 }

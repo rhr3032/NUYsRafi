@@ -71,7 +71,7 @@
             <span class="stack-label">Publications · Research</span>
           </aside>
           <div class="stack-body">
-            @for (pub of data.publications; track pub.doi; let i = $index) {
+            @for (pub of data.publications; track pub.hashnodeUrl; let i = $index) {
               <div class="entry entry--pub" [appReveal]="i * 60">
                 <div class="entry-head">
                   <span class="entry-num">P.0{{ i + 1 }}</span>
@@ -80,12 +80,12 @@
                 <h3 class="entry-title entry-title--sm">{{ pub.title }}</h3>
                 <p class="entry-meta">{{ pub.publisher }}</p>
                 <a
-                  [href]="doiUrl(pub.doi)"
+                  [href]="hashnodeUrl(pub.hashnodeUrl)"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="entry-link"
                 >
-                  doi.org/{{ pub.doi }}
+                  hashnode.com/
                   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
                     <path d="M7 17L17 7M17 7H8M17 7v9"/>
                   </svg>
