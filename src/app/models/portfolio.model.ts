@@ -12,6 +12,9 @@ export interface SocialLinks {
   github?: string;
   linkedin?: string;
   twitter?: string;
+  behance?: string;
+  pinterest?: string;
+  instagram?: string;
   medium?: string;
 }
 

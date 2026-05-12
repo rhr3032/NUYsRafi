@@ -82,6 +82,36 @@
               </a>
             </li>
           }
+          @if (data.personal.social.behance) {
+            <li>
+              <a class="social" [href]="data.personal.social.behance" target="_blank" rel="noopener noreferrer">
+                <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                  <path d="M9.8 11.2c1.4-.7 2.1-1.8 2.1-3.4 0-2.8-2-4.3-5.2-4.3H0v17.8h7c3.7 0 6.1-1.7 6.1-4.9 0-2.1-1.2-3.5-3.3-4.1Zm-4.9-5h2.6c1.3 0 2.1.5 2.1 1.5 0 1.1-.8 1.7-2.1 1.7H4.9V6.2Zm2.8 10.8H4.9v-4.1h2.9c1.5 0 2.4.7 2.4 2s-.9 2.1-2.5 2.1Zm12.2-9.5c-4 0-6.4 2.8-6.4 6.7 0 4 2.5 6.8 6.6 6.8 2.8 0 4.8-1.2 5.8-3.2l-2.8-1.5c-.5 1-1.4 1.6-2.9 1.6-1.8 0-3.1-1.1-3.3-2.9H24v-.8c0-4.1-2.1-6.7-5.2-6.7Zm-2.7 5.5c.2-1.6 1.2-2.6 2.7-2.6s2.5.9 2.6 2.6h-5.3Zm-1.2-10h9.2v2.4h-9.2V3Z"/>
+                </svg>
+                <span>Behance</span>
+              </a>
+            </li>
+          }
+          @if (data.personal.social.pinterest) {
+            <li>
+              <a class="social" [href]="data.personal.social.pinterest" target="_blank" rel="noopener noreferrer">
+                <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                  <path d="M12 2C6.48 2 2 6.48 2 12c0 4.23 2.62 7.85 6.33 9.31-.09-.79-.17-2 .03-2.88.18-.78 1.16-4.96 1.16-4.96s-.3-.6-.3-1.48c0-1.39.81-2.43 1.82-2.43.86 0 1.28.65 1.28 1.43 0 .87-.56 2.18-.85 3.39-.24 1.02.51 1.85 1.51 1.85 1.81 0 3.2-1.91 3.2-4.67 0-2.44-1.76-4.15-4.27-4.15-2.91 0-4.62 2.18-4.62 4.43 0 .87.33 1.8.75 2.31.08.1.09.19.07.29-.08.32-.26 1.02-.3 1.16-.05.19-.17.23-.38.14-1.4-.65-2.27-2.68-2.27-4.32 0-3.52 2.56-6.76 7.39-6.76 3.88 0 6.89 2.76 6.89 6.45 0 3.85-2.43 6.95-5.81 6.95-1.13 0-2.2-.59-2.56-1.29l-.7 2.67c-.26 1-.97 2.25-1.45 3.01C9.33 21.68 10.63 22 12 22c5.52 0 10-4.48 10-10S17.52 2 12 2z"/>
+                </svg>
+                <span>Pinterest</span>
+              </a>
+            </li>
+          }
+          @if (data.personal.social.instagram) {
+            <li>
+              <a class="social" [href]="data.personal.social.instagram" target="_blank" rel="noopener noreferrer">
+                <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                  <path d="M7 2h10a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5H7a5 5 0 0 1-5-5V7a5 5 0 0 1 5-5Zm0 2a3 3 0 0 0-3 3v10a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3V7a3 3 0 0 0-3-3H7Zm5 2.5A5.5 5.5 0 1 1 6.5 12 5.5 5.5 0 0 1 12 6.5Zm0 2A3.5 3.5 0 1 0 15.5 12 3.5 3.5 0 0 0 12 8.5ZM18 5.75a1.25 1.25 0 1 1-1.25 1.25A1.25 1.25 0 0 1 18 5.75Z"/>
+                </svg>
+                <span>Instagram</span>
+              </a>
+            </li>
+          }
           @if (data.personal.social.medium) {
             <li>
               <a class="social" [href]="data.personal.social.medium" target="_blank" rel="noopener noreferrer">
