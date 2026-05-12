@@ -146,7 +146,7 @@
       "technologies": ["Angular"],
       "url": "",
       "github": "",
-      "featured": false
+      "featured": true
     },
     {
       "name": "Wellbook",
@@ -154,7 +154,7 @@
       "technologies": ["Angular"],
       "url": "",
       "github": "",
-      "featured": false
+      "featured": true
     },
     {
       "name": "Wellbore Analyzer",
@@ -162,7 +162,7 @@
       "technologies": ["Angular"],
       "url": "",
       "github": "",
-      "featured": false
+      "featured": true
     },
     
     {
@@ -201,6 +201,46 @@
       "featured": false
     },
     {
+      "name": "Jain Laboratories",
+      "description": "Developed an interactive product showcasing website for Jain Laboratories Ltd, resulting in a significant increase in user engagement. Implemented the website using Angular, achieving an impressive loading time of less than 3 seconds, thereby enhancing the overall user experience and reducing the bounce rate by 40% than the previous website. Leveraged Figma to design and prototype the website, facilitating seamless collaboration with the design and development teams. Utilizing Tailwind CSS as the CSS library, reduced the initial development time by 30%-40%, leading to quicker project delivery",
+      "technologies": ["Angular"],
+      "url": "",
+      "github": "",
+      "featured": false
+    },
+    {
+      "name": "Jain Laboratories",
+      "description": "Developed an interactive product showcasing website for Jain Laboratories Ltd, resulting in a significant increase in user engagement. Implemented the website using Angular, achieving an impressive loading time of less than 3 seconds, thereby enhancing the overall user experience and reducing the bounce rate by 40% than the previous website. Leveraged Figma to design and prototype the website, facilitating seamless collaboration with the design and development teams. Utilizing Tailwind CSS as the CSS library, reduced the initial development time by 30%-40%, leading to quicker project delivery",
+      "technologies": ["Angular"],
+      "url": "",
+      "github": "",
+      "featured": false
+    },
+    {
+      "name": "Jain Laboratories",
+      "description": "Developed an interactive product showcasing website for Jain Laboratories Ltd, resulting in a significant increase in user engagement. Implemented the website using Angular, achieving an impressive loading time of less than 3 seconds, thereby enhancing the overall user experience and reducing the bounce rate by 40% than the previous website. Leveraged Figma to design and prototype the website, facilitating seamless collaboration with the design and development teams. Utilizing Tailwind CSS as the CSS library, reduced the initial development time by 30%-40%, leading to quicker project delivery",
+      "technologies": ["Angular"],
+      "url": "",
+      "github": "",
+      "featured": false
+    },
+    {
+      "name": "Jain Laboratories",
+      "description": "Developed an interactive product showcasing website for Jain Laboratories Ltd, resulting in a significant increase in user engagement. Implemented the website using Angular, achieving an impressive loading time of less than 3 seconds, thereby enhancing the overall user experience and reducing the bounce rate by 40% than the previous website. Leveraged Figma to design and prototype the website, facilitating seamless collaboration with the design and development teams. Utilizing Tailwind CSS as the CSS library, reduced the initial development time by 30%-40%, leading to quicker project delivery",
+      "technologies": ["Angular"],
+      "url": "",
+      "github": "",
+      "featured": false
+    },
+    {
+      "name": "Jain Laboratories",
+      "description": "Developed an interactive product showcasing website for Jain Laboratories Ltd, resulting in a significant increase in user engagement. Implemented the website using Angular, achieving an impressive loading time of less than 3 seconds, thereby enhancing the overall user experience and reducing the bounce rate by 40% than the previous website. Leveraged Figma to design and prototype the website, facilitating seamless collaboration with the design and development teams. Utilizing Tailwind CSS as the CSS library, reduced the initial development time by 30%-40%, leading to quicker project delivery",
+      "technologies": ["Angular"],
+      "url": "",
+      "github": "",
+      "featured": false
+    },
+    {
       "name": "Jomidar",
       "description": "Developed and designed web application and mobile application, utilizing Angular and Ionic frameworks. Led the creation of the web application from scratch, while also crafting the UI design using Adobe XD. Leveraged expertise in Angular and Ionic to build both web and mobile components of the application, demonstrating a strong aptitude for front-end development and responsive design. Collaborated as a Junior Software Engineer, gaining valuable experience in software development lifecycle and UI/UX implementation.",
       "technologies": ["Angular"],
@@ -211,24 +251,80 @@
   ],
   "blog": [
     {
-      "title": "Getting Started with Angular Signals",
-      "mediumUrl": "https://medium.com/@mehaxan",
-      "date": "2025-10-01",
-      "summary": "A practical guide to Angular Signals — the new reactivity primitive replacing Zone.js change detection in modern Angular applications.",
-      "readingTime": "6 min read"
+      "title": "Prepare for Your Career: Ultimate Guide to Kickstart Your UI/UX Design Journey.",
+      "mediumUrl": "https://www.linkedin.com/pulse/prepare-your-career-ultimate-guide-kickstart-uiux-hasan-rafi-rql0c",
+      "date": "May 12, 2026",
+      "summary": "Embarking on a career in UI/UX design can be both exciting and daunting. This comprehensive guide is designed to help aspiring designers navigate the path to success, providing insights, tips, and resources to kickstart your journey in the world of user experience and interface design.",
+      "readingTime": "10 min read"
     },
     {
-      "title": "Deploying Angular Apps to Cloudflare Workers",
-      "mediumUrl": "https://medium.com/@mehaxan",
-      "date": "2025-08-15",
-      "summary": "Step-by-step walkthrough of deploying an Angular SSR application to Cloudflare Workers using @angular/ssr and Wrangler.",
+      "title": "Prepare for Your Career: Ultimate Guide to AI-Driven UI/UX Designer.",
+      "mediumUrl": "https://www.linkedin.com/pulse/prepare-your-career-ultimate-guide-ai-driven-uiux-hasan-rafi-70ahc",
+      "date": "May 12, 2026",
+      "summary": "As the field of UI/UX design continues to evolve, the integration of Artificial Intelligence (AI) is becoming increasingly prevalent.",
       "readingTime": "8 min read"
     },
     {
-      "title": "Mastering RxJS in Angular",
-      "mediumUrl": "https://medium.com/@mehaxan",
-      "date": "2025-05-20",
-      "summary": "Deep dive into the RxJS operators every Angular developer should know, with real-world examples from production codebases.",
+      "title": "The Art of CX Design: Crafting Exceptional Customer Experiences.",
+      "mediumUrl": "https://medium.com/@rhr3032/the-art-of-cx-design-crafting-exceptional-customer-experiences-4199e3460e9e",
+      "date": "Jul 5, 2023",
+      "summary": "Customer Experience (CX) Design is the practice of designing and optimizing the overall experience that customers have with a brand, product, or service.",
+      "readingTime": "8 min read"
+    },
+    {
+      "title": "The Art of CX Design: Crafting Exceptional Customer Experiences.",
+      "mediumUrl": "https://medium.com/@rhr3032/the-art-of-cx-design-crafting-exceptional-customer-experiences-4199e3460e9e",
+      "date": "Jul 5, 2023",
+      "summary": "Customer Experience (CX) Design is the practice of designing and optimizing the overall experience that customers have with a brand, product, or service.",
+      "readingTime": "8 min read"
+    },
+    {
+      "title": "The Art of CX Design: Crafting Exceptional Customer Experiences.",
+      "mediumUrl": "https://medium.com/@rhr3032/the-art-of-cx-design-crafting-exceptional-customer-experiences-4199e3460e9e",
+      "date": "Jul 5, 2023",
+      "summary": "Customer Experience (CX) Design is the practice of designing and optimizing the overall experience that customers have with a brand, product, or service.",
+      "readingTime": "8 min read"
+    },
+    {
+      "title": "The Art of CX Design: Crafting Exceptional Customer Experiences.",
+      "mediumUrl": "https://medium.com/@rhr3032/the-art-of-cx-design-crafting-exceptional-customer-experiences-4199e3460e9e",
+      "date": "Jul 5, 2023",
+      "summary": "Customer Experience (CX) Design is the practice of designing and optimizing the overall experience that customers have with a brand, product, or service.",
+      "readingTime": "8 min read"
+    },
+    {
+      "title": "The Art of CX Design: Crafting Exceptional Customer Experiences.",
+      "mediumUrl": "https://medium.com/@rhr3032/the-art-of-cx-design-crafting-exceptional-customer-experiences-4199e3460e9e",
+      "date": "Jul 5, 2023",
+      "summary": "Customer Experience (CX) Design is the practice of designing and optimizing the overall experience that customers have with a brand, product, or service.",
+      "readingTime": "8 min read"
+    },
+    {
+      "title": "The Art of CX Design: Crafting Exceptional Customer Experiences.",
+      "mediumUrl": "https://medium.com/@rhr3032/the-art-of-cx-design-crafting-exceptional-customer-experiences-4199e3460e9e",
+      "date": "Jul 5, 2023",
+      "summary": "Customer Experience (CX) Design is the practice of designing and optimizing the overall experience that customers have with a brand, product, or service.",
+      "readingTime": "8 min read"
+    },
+    {
+      "title": "The Art of CX Design: Crafting Exceptional Customer Experiences.",
+      "mediumUrl": "https://medium.com/@rhr3032/the-art-of-cx-design-crafting-exceptional-customer-experiences-4199e3460e9e",
+      "date": "Jul 5, 2023",
+      "summary": "Customer Experience (CX) Design is the practice of designing and optimizing the overall experience that customers have with a brand, product, or service.",
+      "readingTime": "8 min read"
+    },
+    {
+      "title": "The Art of CX Design: Crafting Exceptional Customer Experiences.",
+      "mediumUrl": "https://medium.com/@rhr3032/the-art-of-cx-design-crafting-exceptional-customer-experiences-4199e3460e9e",
+      "date": "Jul 5, 2023",
+      "summary": "Customer Experience (CX) Design is the practice of designing and optimizing the overall experience that customers have with a brand, product, or service.",
+      "readingTime": "8 min read"
+    },
+    {
+      "title": "Different between “Product Designer” and “UI/UX Designer”.",
+      "mediumUrl": "https://medium.com/@rhr3032/different-between-product-designer-and-ui-ux-designer-32be54531b44",
+      "date": "Jul 5, 2023",
+      "summary": "Exploring the distinctions between Product Designers and UI/UX Designers in the modern design landscape.",
       "readingTime": "10 min read"
     }
   ],
