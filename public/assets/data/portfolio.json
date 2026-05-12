@@ -72,9 +72,21 @@
   "education": [
     {
       "institution": "Patuakhali Govt. University College",
-      "degree": "BA (Hon's) in Department of English Language and Literature",
+      "degree": "BA (Hon's) in Department of English",
       "location": "Patuakhali, Bangladesh",
       "endDate": "2026"
+    },
+    {
+      "institution": "Coursera / Google",
+      "degree": "Google UX Design Certificate",
+      "location": "Online",
+      "endDate": "2024"
+    },
+    {
+      "institution": "IDEO U",
+      "degree": "Advanced Product Strategy",
+      "location": "Online",
+      "endDate": "2024"
     }
   ],
   "skills": [
