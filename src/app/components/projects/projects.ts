@@ -14,14 +14,13 @@ import { AsyncPipe, isPlatformBrowser } from '@angular/common';
 import { Subscription } from 'rxjs';
 import { PortfolioService } from '../../services/portfolio.service';
 import { Project } from '../../models/portfolio.model';
-import { ScrollRevealDirective } from '../../directives/scroll-reveal.directive';
 
 /** Minimum pointer travel (px) that should disqualify a card click at drag-end. */
 const DRAG_CLICK_THRESHOLD_PX = 6;
 
 @Component({
   selector: 'app-projects',
-  imports: [AsyncPipe, ScrollRevealDirective],
+  imports: [AsyncPipe],
   templateUrl: './projects.html',
   styleUrl: './projects.css',
 })

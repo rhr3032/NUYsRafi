@@ -77,7 +77,7 @@
 .rail-pad--end { width: var(--shell-pad-x); }
 
 .panel {
-  flex: 0 0 min(86vw, 64rem);
+  flex: 0 0 min(100%, 64rem);
   scroll-snap-align: start;
   background: var(--bg-card);
   border: 1px solid var(--line);

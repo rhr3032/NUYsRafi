@@ -2,7 +2,7 @@
   <span class="gutter-label">§ 04 — Projects</span>
 
   <div class="shell projects-head-shell">
-    <header class="proj-head" [appReveal]="0">
+    <header class="proj-head" >
       <div>
         <span class="eyebrow">Selected projects</span>
         <h2 class="display-md">
@@ -58,7 +58,7 @@
 
       @for (project of data.projects ?? []; track project.name) {
         @if (project.featured) {
-          <article class="panel" [appReveal]="0">
+          <article class="panel">
             <div class="panel-media">
               @if (project.image) {
                 <img [src]="project.image" [alt]="project.name" loading="lazy" />
@@ -132,7 +132,7 @@
     <!-- Compact list of remaining projects -->
     @if (hasNonFeatured(data.projects)) {
       <div class="shell more-shell">
-        <div class="more-head" [appReveal]="0">
+        <div class="more-head" >
           <span class="eyebrow">Also worth a look</span>
           <span class="kicker">{{ nonFeaturedCount(data.projects) }} more</span>
         </div>
@@ -140,7 +140,7 @@
         <ul class="more-list" role="list">
           @for (project of data.projects ?? []; track project.name) {
             @if (!project.featured) {
-              <li class="more-item" [appReveal]="0">
+              <li class="more-item">
                 <a
                   class="more-link"
                   [href]="project.url || project.github || '#'"
