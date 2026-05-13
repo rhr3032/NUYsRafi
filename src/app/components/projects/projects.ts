@@ -80,7 +80,14 @@ export class Projects implements OnInit, OnDestroy {
   // ── Drag-to-scroll (desktop) ────────────────────────────────
   onPointerDown(event: PointerEvent): void {
     const rail = this.railRef?.nativeElement;
-    if (!rail || event.pointerType === 'touch') return;
+    const target = event.target as HTMLElement | null;
+    if (
+      !rail ||
+      event.pointerType === 'touch' ||
+      target?.closest('a, button, input, textarea, select, label')
+    ) {
+      return;
+    }
     this.isDragging = true;
     this.dragStartX = event.clientX;
     this.scrollStart = rail.scrollLeft;
